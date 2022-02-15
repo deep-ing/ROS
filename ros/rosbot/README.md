@@ -22,7 +22,7 @@ catkin_make
 source devel/setup.sh
 ```
 
-###3. Use it!
+### 3. Use it!
 
 There many launch files 
 
