@@ -36,3 +36,25 @@ roslaunch <##.launch>
 roslaunch rosbot_testop.launch
 ```
 
+
+
+
+### 4. Activated Nodes
+
+```
+
+bumjin@bumjin-linux:~/ROS/ros/rosbot$ rosnode list
+# simulator 
+/gazebo
+/gazebo_gui
+/gmapping_node
+/joint_state_controller_spawner
+/robot_state_publisher
+/rosout
+/rviz
+
+# control
+/teleop_twist_keyboard
+
+```
+
