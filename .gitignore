@@ -127,5 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-devel 
+
+
+.vscode
+build
+devel
 .catkin_workspace
