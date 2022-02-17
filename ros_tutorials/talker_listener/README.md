@@ -10,9 +10,9 @@ Ready to run ROS + Python example
 # Make sure the ros is set. 
 echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 
-# ~/playground/ros/talker_listner
+# ~/ros/talker_listner
 catkin_make
-echo  "source ~/playground/ros/talker_listener/devel/setup.sh" >> ~/.bashrc 
+echo  "source ~/ROS/ros_tutorials/talker_listener/devel/setup.sh" >> ~/.bashrc 
 
 ```
 
